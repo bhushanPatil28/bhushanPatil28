@@ -21,5 +21,5 @@ class CodeAdventurer:
         """.format(self.name, self.role)
 
 if __name__ == "__main__":
-    code_adventurer = CodeAdventurer(name="Your Name", role="Passionate Code Alchemist")
+    code_adventurer = CodeAdventurer(name="Mayur", role="Passionate Programmer")
     print(code_adventurer.describe())
